@@ -1,7 +1,8 @@
 ### Console_App_Cadastro_de_Series_Filmes
-#### Projeto prático, realizado no Bootcamp da Digital Innovation One.
 ### Aplicação Console.Net (simples) para Cadastro de Series
-### Implementei Features, melhorias nesse projeto: 
+#### Projeto prático, realizado no Bootcamp da Digital Innovation One.
+
+### Implementei Novas Features, melhorias no projeto inicial: 
 - Criei classe de Filmes
 - Adicionei cor no console
 - Criei mensagens de alerta
