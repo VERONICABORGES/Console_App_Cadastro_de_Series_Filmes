@@ -9,7 +9,7 @@
 - Criei mensagens de alerta
 - Adicionei condição para retornar ao menu inicial, quando a opção digitada for inválida ou inexistente.
 
-Executando esse projeto : Baixar e Abrir o projeto no Visual Studio, Executar e Escolher as opções no menu do APP.
+#### Executando esse projeto : Baixar e Abrir o projeto no Visual Studio, Executar e Escolher as opções no menu do APP.
 
 ### Visualização:
 
