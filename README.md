@@ -1,9 +1,9 @@
 ### Cadastro_de_Series_Filmes
 ### Aplicação Console App.Net (simples) para Cadastro de Series
 #### Projeto prático, realizado no Bootcamp da Digital Innovation One.
-### Tecnologias: .Net Core App
+#### Tecnologias: .Net Core App
 
-### Implementeção Features Novas, melhorias no projeto inicial: 
+#### Implementeção Features Novas, melhorias no projeto inicial: 
 - Criei classe de Filmes
 - Adicionei cor no console
 - Criei mensagens de alerta
@@ -11,7 +11,7 @@
 
 #### Executando esse projeto : Baixar e Abrir o projeto no Visual Studio, Executar e Escolher as opções no menu do APP.
 
-### Visualização:
+#### Visualização:
 
 ## ![image](https://user-images.githubusercontent.com/74335070/134764382-1e4687d6-26f8-4ec7-ab9b-61a2a486a5be.png)
 ## ![image](https://user-images.githubusercontent.com/74335070/134764003-eb7655dc-42d5-4359-91e4-4dc8559f47b8.png)
