@@ -1,7 +1,7 @@
-### Cadastro_de_Series_Filmes
-### Aplicação Console App.Net (simples) para Cadastro de Series
-#### Projeto prático, realizado no Bootcamp da Digital Innovation One.
-#### Tecnologias: .Net Core App
+## Cadastro_de_Series_Filmes
+   Aplicação Console App.Net (simples) para Cadastro de Series
+   Projeto prático, realizado no Bootcamp da Digital Innovation One.
+   Tecnologias: .Net Core App
 
 #### Implementeção Features Novas, melhorias no projeto inicial: 
 - Criei classe de Filmes
